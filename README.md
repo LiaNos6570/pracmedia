@@ -1,5 +1,10 @@
 # pracmedia
 
+Задание 3: https://www.figma.com/design/mgVhHBqfjAyVooLEF8QvDT/Untitled?node-id=0-1&p=f&t=FyuMT79eEtC8qHrh-0
+
+
+
+Задание 5:
 1. Вывести покупателей с количеством осуществленных покупок
 SELECT
     Покупатели.Имя,
